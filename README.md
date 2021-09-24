@@ -1,4 +1,6 @@
 # GA-morning-exercise
 
 
-Jo-Ivan
+
+I am Jo-Ivan
+Hi, I'm Josh!
